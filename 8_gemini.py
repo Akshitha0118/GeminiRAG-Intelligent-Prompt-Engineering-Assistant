@@ -64,4 +64,4 @@ else:
 # Footer
 # -------------------------------
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit + Google Gemini API + prakash senapati")
+st.caption("Built with ❤️ using Streamlit + Google Gemini API + Akshitha hirakari")
